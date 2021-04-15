@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 description: A friendly repository to download and setup your godot project
+show_downloads: https://github.com/krakenlab/godot/releases/tag/3.2.3
